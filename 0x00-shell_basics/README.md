@@ -1,1 +1,1 @@
-My class with my tutor
+Display current directory contents in a long format
